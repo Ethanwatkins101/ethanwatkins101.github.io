@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Watkins;Ethan;;;
+FN:Ethan Watkins
+ORG:Centre College
+TITLE:Engineering & Physics Student
+EMAIL;TYPE=INTERNET:Ethan.Watkins@centre.edu
+TEL;TYPE=CELL:+1-270-405-6813
+URL:https://ethanwatkins101.github.io
+item1.URL:https://www.linkedin.com/in/ethan-watkins101/
+item1.X-ABLabel:LinkedIn
+ADR;TYPE=HOME:;;;Danville;KY;;USA
+NOTE:Engineering portfolio: https://ethanwatkins101.github.io
+END:VCARD
